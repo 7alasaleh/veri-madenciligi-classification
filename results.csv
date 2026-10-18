@@ -1,0 +1,4 @@
+experiment,task,accuracy,precision,recall,f1_score,silhouette_score
+Majority Baseline,Classification,0.5749902711116877,0.0,0.0,0.0,
+Random Forest,Classification,0.771721364638734,0.7021378685290824,0.8039311439384691,0.7495944676854777,
+K-Means (k=3),Clustering,,,,,0.1561278604670621
